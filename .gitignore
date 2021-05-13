@@ -1,0 +1,9 @@
+dist
+build
+yarn.lock
+.DS_Store
+node_modules
+temp
+explorations
+TODOs.md
+*.log
